@@ -9,7 +9,6 @@ It is built using HTML, CSS, and JavaScript, and makes use of class and construc
 - Profiles display the dog's name, age, bio, and profile picture.
 - Profiles are rendered dynamically from a JavaScript array of objects.
 - Users can only like or dislike each profile once.
-- The user's likes and dislikes are stored in an array and can be accessed and modified later.
 - The user interface is designed to be responsive and work on both desktop and mobile devices.
 
 ## 💻 Technologies Used
