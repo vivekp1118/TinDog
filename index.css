@@ -20,14 +20,15 @@ body{
     padding: 10px;
 }
 .main-container{
-    width: 320px;
+    width: 350px;
+    min-height: 500px;
     height: fit-content;
     margin: 0 auto;
     flex-direction: column;
     border: 1px solid #f5f5f5;
     border-radius:9px; 
     overflow: hidden;
-    box-shadow: 0 0 5px #D5D5D5;
+    box-shadow: 0 0 5px #adadad;
 }
 nav{
     display: flex;
